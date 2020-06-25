@@ -1,0 +1,9 @@
+class A{
+  private int no; 
+
+  A(int no){
+     this.no = no;
+  } 	
+
+
+}
