@@ -4,6 +4,9 @@ class A{
   A(int no){
      this.no = no;
   } 	
-
+  // you bitch, you wanted this
+  public int getNo(){
+  	return this.no;
+  }
 
 }
